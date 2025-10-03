@@ -1,0 +1,92 @@
+PassengerId,Survived,Pclass,Name,Age,SibSp,Parch,Ticket,Fare,Cabin,Sex_female,Sex_male,Embarked_C,Embarked_Q,Embarked_S
+710,1,3,"Moubarek, Master. Halim Gonios (""William George"")",,1,1,2661,15.2458,,0,1,1,0,0
+440,0,2,"Kvillner, Mr. Johan Henrik Johannesson",31.0,0,0,C.A. 18723,10.5,,0,1,0,0,1
+841,0,3,"Alhomaki, Mr. Ilmari Rudolf",20.0,0,0,SOTON/O2 3101287,7.925,,0,1,0,0,1
+721,1,2,"Harper, Miss. Annie Jessie ""Nina""",6.0,0,1,248727,33.0,,1,0,0,0,1
+40,1,3,"Nicola-Yarred, Miss. Jamila",14.0,1,0,2651,11.2417,,1,0,1,0,0
+291,1,1,"Barber, Miss. Ellen ""Nellie""",26.0,0,0,19877,78.85,,1,0,0,0,1
+301,1,3,"Kelly, Miss. Anna Katherine ""Annie Kate""",,0,0,9234,7.75,,1,0,0,1,0
+334,0,3,"Vander Planke, Mr. Leo Edmondus",16.0,2,0,345764,18.0,,0,1,0,0,1
+209,1,3,"Carr, Miss. Helen ""Ellen""",16.0,0,0,367231,7.75,,1,0,0,1,0
+137,1,1,"Newsom, Miss. Helen Monypeny",19.0,0,2,11752,26.2833,D47,1,0,0,0,1
+138,0,1,"Futrelle, Mr. Jacques Heath",37.0,1,0,113803,53.1,C123,0,1,0,0,1
+697,0,3,"Kelly, Mr. James",44.0,0,0,363592,8.05,,0,1,0,0,1
+486,0,3,"Lefebre, Miss. Jeannie",,3,1,4133,25.4667,,1,0,0,0,1
+245,0,3,"Attalah, Mr. Sleiman",30.0,0,0,2694,7.225,,0,1,1,0,0
+345,0,2,"Fox, Mr. Stanley Hubert",36.0,0,0,229236,13.0,,0,1,0,0,1
+854,1,1,"Lines, Miss. Mary Conover",16.0,0,1,PC 17592,39.4,D28,1,0,0,0,1
+622,1,1,"Kimball, Mr. Edwin Nelson Jr",42.0,1,0,11753,52.5542,D19,0,1,0,0,1
+654,1,3,"O'Leary, Miss. Hanora ""Norah""",,0,0,330919,7.8292,,1,0,0,1,0
+887,0,2,"Montvila, Rev. Juozas",27.0,0,0,211536,13.0,,0,1,0,0,1
+111,0,1,"Porter, Mr. Walter Chamberlain",47.0,0,0,110465,52.0,C110,0,1,0,0,1
+295,0,3,"Mineff, Mr. Ivan",24.0,0,0,349233,7.8958,,0,1,0,0,1
+448,1,1,"Seward, Mr. Frederic Kimber",34.0,0,0,113794,26.55,,0,1,0,0,1
+193,1,3,"Andersen-Jensen, Miss. Carla Christine Nielsine",19.0,1,0,350046,7.8542,,1,0,0,0,1
+683,0,3,"Olsvigen, Mr. Thor Anderson",20.0,0,0,6563,9.225,,0,1,0,0,1
+539,0,3,"Risien, Mr. Samuel Beard",,0,0,364498,14.5,,0,1,0,0,1
+820,0,3,"Skoog, Master. Karl Thorsten",10.0,3,2,347088,27.9,,0,1,0,0,1
+31,0,1,"Uruchurtu, Don. Manuel E",40.0,0,0,PC 17601,27.7208,,0,1,1,0,0
+674,1,2,"Wilhelms, Mr. Charles",31.0,0,0,244270,13.0,,0,1,0,0,1
+64,0,3,"Skoog, Master. Harald",4.0,3,2,347088,27.9,,0,1,0,0,1
+397,0,3,"Olsson, Miss. Elina",31.0,0,0,350407,7.8542,,1,0,0,0,1
+878,0,3,"Petroff, Mr. Nedelio",19.0,0,0,349212,7.8958,,0,1,0,0,1
+142,1,3,"Nysten, Miss. Anna Sofia",22.0,0,0,347081,7.75,,1,0,0,0,1
+794,0,1,"Hoyt, Mr. William Fisher",,0,0,PC 17600,30.6958,,0,1,1,0,0
+236,0,3,"Harknett, Miss. Alice Phoebe",,0,0,W./C. 6609,7.55,,1,0,0,0,1
+205,1,3,"Cohen, Mr. Gurshon ""Gus""",18.0,0,0,A/5 3540,8.05,,0,1,0,0,1
+621,0,3,"Yasbeck, Mr. Antoni",27.0,1,0,2659,14.4542,,0,1,1,0,0
+24,1,1,"Sloper, Mr. William Thompson",28.0,0,0,113788,35.5,A6,0,1,0,0,1
+199,1,3,"Madigan, Miss. Margaret ""Maggie""",,0,0,370370,7.75,,1,0,0,1,0
+843,1,1,"Serepeca, Miss. Augusta",30.0,0,0,113798,31.0,,1,0,1,0,0
+740,0,3,"Nankoff, Mr. Minko",,0,0,349218,7.8958,,0,1,0,0,1
+121,0,2,"Hickman, Mr. Stanley George",21.0,2,0,S.O.C. 14879,73.5,,0,1,0,0,1
+478,0,3,"Braund, Mr. Lewis Richard",29.0,1,0,3460,7.0458,,0,1,0,0,1
+838,0,3,"Sirota, Mr. Maurice",,0,0,392092,8.05,,0,1,0,0,1
+791,0,3,"Keane, Mr. Andrew ""Andy""",,0,0,12460,7.75,,0,1,0,1,0
+363,0,3,"Barbara, Mrs. (Catherine David)",45.0,0,1,2691,14.4542,,1,0,1,0,0
+87,0,3,"Ford, Mr. William Neal",16.0,1,3,W./C. 6608,34.375,,0,1,0,0,1
+68,0,3,"Crease, Mr. Ernest James",19.0,0,0,S.P. 3464,8.1583,,0,1,0,0,1
+351,0,3,"Odahl, Mr. Nils Martin",23.0,0,0,7267,9.225,,0,1,0,0,1
+211,0,3,"Ali, Mr. Ahmed",24.0,0,0,SOTON/O.Q. 3101311,7.05,,0,1,0,0,1
+660,0,1,"Newell, Mr. Arthur Webster",58.0,0,2,35273,113.275,D48,0,1,1,0,0
+449,1,3,"Baclini, Miss. Marie Catherine",5.0,2,1,2666,19.2583,,1,0,1,0,0
+821,1,1,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",52.0,1,1,12749,93.5,B69,1,0,0,0,1
+361,0,3,"Skoog, Mr. Wilhelm",40.0,1,4,347088,27.9,,0,1,0,0,1
+803,1,1,"Carter, Master. William Thornton II",11.0,1,2,113760,120.0,B96 B98,0,1,0,0,1
+281,0,3,"Duane, Mr. Frank",65.0,0,0,336439,7.75,,0,1,0,1,0
+586,1,1,"Taussig, Miss. Ruth",18.0,0,2,110413,79.65,E68,1,0,0,0,1
+71,0,2,"Jenkin, Mr. Stephen Curnow",32.0,0,0,C.A. 33111,10.5,,0,1,0,0,1
+300,1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",50.0,0,1,PC 17558,247.5208,B58 B60,1,0,1,0,0
+212,1,2,"Cameron, Miss. Clear Annie",35.0,0,0,F.C.C. 13528,21.0,,1,0,0,0,1
+45,1,3,"Devaney, Miss. Margaret Delia",19.0,0,0,330958,7.8792,,1,0,0,1,0
+409,0,3,"Birkeland, Mr. Hans Martin Monsen",21.0,0,0,312992,7.775,,0,1,0,0,1
+447,1,2,"Mellinger, Miss. Madeleine Violet",13.0,0,1,250644,19.5,,1,0,0,0,1
+427,1,2,"Clarke, Mrs. Charles V (Ada Maria Winfield)",28.0,1,0,2003,26.0,,1,0,0,0,1
+169,0,1,"Baumann, Mr. John D",,0,0,PC 17318,25.925,,0,1,0,0,1
+197,0,3,"Mernagh, Mr. Robert",,0,0,368703,7.75,,0,1,0,1,0
+773,0,2,"Mack, Mrs. (Mary)",57.0,0,0,S.O./P.P. 3,10.5,E77,1,0,0,0,1
+73,0,2,"Hood, Mr. Ambrose Jr",21.0,0,0,S.O.C. 14879,73.5,,0,1,0,0,1
+423,0,3,"Zimmerman, Mr. Leo",29.0,0,0,315082,7.875,,0,1,0,0,1
+533,0,3,"Elias, Mr. Joseph Jr",17.0,1,1,2690,7.2292,,0,1,1,0,0
+592,1,1,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",52.0,1,0,36947,78.2667,D20,1,0,1,0,0
+313,0,2,"Lahtinen, Mrs. William (Anna Sylfven)",26.0,1,1,250651,26.0,,1,0,0,0,1
+312,1,1,"Ryerson, Miss. Emily Borie",18.0,2,2,PC 17608,262.375,B57 B59 B63 B66,1,0,1,0,0
+890,1,1,"Behr, Mr. Karl Howell",26.0,0,0,111369,30.0,C148,0,1,1,0,0
+836,1,1,"Compton, Miss. Sara Rebecca",39.0,1,1,PC 17756,83.1583,E49,1,0,1,0,0
+834,0,3,"Augustsson, Mr. Albert",23.0,0,0,347468,7.8542,,0,1,0,0,1
+606,0,3,"Lindell, Mr. Edvard Bengtsson",36.0,1,0,349910,15.55,,0,1,0,0,1
+768,0,3,"Mangan, Miss. Mary",30.5,0,0,364850,7.75,,1,0,0,1,0
+540,1,1,"Frolicher, Miss. Hedwig Margaritha",22.0,0,2,13568,49.5,B39,1,0,1,0,0
+358,0,2,"Funk, Miss. Annie Clemmer",38.0,0,0,237671,13.0,,1,0,0,0,1
+255,0,3,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",41.0,0,2,370129,20.2125,,1,0,0,0,1
+267,0,3,"Panula, Mr. Ernesti Arvid",16.0,4,1,3101295,39.6875,,0,1,0,0,1
+67,1,2,"Nye, Mrs. (Elizabeth Ramell)",29.0,0,0,C.A. 29395,10.5,F33,1,0,0,0,1
+320,1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",40.0,1,1,16966,134.5,E34,1,0,1,0,0
+779,0,3,"Kilgannon, Mr. Thomas J",,0,0,36865,7.7375,,0,1,0,1,0
+175,0,1,"Smith, Mr. James Clinch",56.0,0,0,17764,30.6958,A7,0,1,1,0,0
+494,0,1,"Artagaveytia, Mr. Ramon",71.0,0,0,PC 17609,49.5042,,0,1,1,0,0
+216,1,1,"Newell, Miss. Madeleine",31.0,1,0,35273,113.275,D36,1,0,1,0,0
+310,1,1,"Francatelli, Miss. Laura Mabel",30.0,0,0,PC 17485,56.9292,E36,1,0,1,0,0
+823,0,1,"Reuchlin, Jonkheer. John George",38.0,0,0,19972,0.0,,0,1,0,0,1
+251,0,3,"Reed, Mr. James George",,0,0,362316,7.25,,0,1,0,0,1
+166,1,3,"Goldsmith, Master. Frank John William ""Frankie""",9.0,0,2,363291,20.525,,0,1,0,0,1
