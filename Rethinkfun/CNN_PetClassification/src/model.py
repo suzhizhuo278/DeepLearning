@@ -144,3 +144,4 @@ if __name__ == "__main__":
 
         val_acc = evaluate(model, valid_dataloader)
         print(f"Validation Accuracy after epoch {epoch + 1}: {val_acc:.4f}")
+
