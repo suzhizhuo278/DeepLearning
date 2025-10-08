@@ -88,7 +88,7 @@ def evaluate(model, test_dataloader):
     return val_acc
 
 if __name__ == "__main__":
-    DATA_DIR = r"..\data\PetImages"
+    DATA_DIR = r"data/PetImages"
     BATCH_SIZE = 64
     IMG_SIZE = 128
     EPOCHS = 10
